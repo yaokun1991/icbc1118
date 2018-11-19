@@ -9,6 +9,8 @@ public class DemoController {
 	@RequestMapping(value="/welcome")  //welcome要访问的url地址
     public  String  hello(){
         System.out.println("hello,springmvc");
+        System.out.println("aaa");
+       System.out.println("bbb");
         return "hello";
     }
 	
