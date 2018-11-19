@@ -10,7 +10,9 @@ public class DemoController {
     public  String  hello(){
         System.out.println("hello,springmvc");
         System.out.println("aaa");
+	    
        System.out.println("bbb");
+	    System.out.println("ccc");
         return "hello";
     }
 	
