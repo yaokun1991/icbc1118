@@ -16,6 +16,8 @@ public class DemoController {
 	    System.out.println("aaa");
 	    System.out.println("ddd");
 	    System.out.println("eee");
+	    System.out.println("aaa");
+	    System.out.println("aaa");
         return "hello";
     }
 	
